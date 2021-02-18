@@ -1,0 +1,9 @@
+This Project on Restaurant Management is a general software developed (using Python) to simplify Restaurant operations by automating them.
+In this project, “Chillox” is the project’s Restaurant name. It covers major aspects of Restaurant management, 
+it could perform the following operations- Take a token number, Provide you Menu card, Billing and Payment.
+
+Functions Created
+Home()- Function to display the project’s main screen i.e. the home page of the project or you can say the main menu for selecting the desired operation to perform.
+Token_no()- Function for creating a token number inRestaurant by entering user/customer Name and Phone Number.
+Menu_Card()- Function for provides user/customer with the restaurant’s menu card to order food.
+Payment()- Function for payment of restaurant bill generation.
